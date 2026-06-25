@@ -1,7 +1,7 @@
 # AWS Containers Retail Sample - Cart Service
 
 <!-- GitOps Test: Multi-service deploy test - Cart -->
-adesh
+adesh cghdd
 | Language | Persistence     |
 | -------- | --------------- |
 | Java     | Amazon DynamoDB |
